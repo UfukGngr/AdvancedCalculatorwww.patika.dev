@@ -1,0 +1,19 @@
+
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(û¦ß–
+K
+java:S1854"5Remove this useless assignment to local variable "a".(ìƒ¤
+P
+java:S1854":Remove this useless assignment to local variable "select".(ýØÙÍ
+S
+java:S1659">Declare "a" and all following declarations on a separate line.(ÊÐÉ%
+@
+java:S1481"+Remove this unused "select" local variable.(ÊÐÉ%
+;
+java:S1481"&Remove this unused "a" local variable.(ÊÐÉ%
+;
+java:S1481"&Remove this unused "b" local variable.(ÊÐÉ%
+H
+java:S6126"2Replace this String concatenation with Text block.(¸§ ª
